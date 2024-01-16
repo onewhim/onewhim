@@ -2,11 +2,11 @@
   <img alt="Onewhim Logo" src="https://cdn.cloudwhim.com/onewhim-logo-name-white.svg" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
 </p>
 
-We are a hypermodern tech company with a global presence.
+We are a hypermodern tech company focusing on real issues in life.
 
-We build modern web openly! The world will be a much better place as we rebuild it in a modern way!
+We build modern web openly with a global presence!
 
-We are rethinking the web and creating products that will be awesome by default:
+We are rethinking the web and creating products that are awesome by default:
 
 - 🦋 beautiful modern UI
 - 📱 mobile friendly
