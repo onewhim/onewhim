@@ -10,7 +10,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Onewhim",
   description:
-    "🎉Modern private open-source presence calculator for resident/citizenship.",
+    "🎉 The hypermodern tech company building solutions for real-life issues.",
   icons: [
     { rel: "icon", url: "https://cdn.cloudwhim.com/onewhim-logo-round.svg" },
     {
