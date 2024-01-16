@@ -4,16 +4,16 @@
 
 We are a hypermodern tech company focusing on real issues in life.
 
-We build modern web openly with a global presence!
+We build modern solutions with a global presence!
 
-We are rethinking the web and creating products that are awesome by default:
+We are rethinking challenges in life and creating products that are awesome by default:
 
 - 🦋 beautiful modern UI
 - 📱 mobile friendly
-- 🔎 open source, all code is supervised by public
-- 🔒 complete private, no any tracking
-- 🌎 support tons of countries, if not, you just tell us
-- 🥳 community support
+- 🔎 all code is supervised by public
+- 🔒 complete private and secure, no any tracking
+- 🌎 support in tons of countries, if not, you just tell us
+- 🥳 huge community support
 
 Landing page (<https://onewhim.com/>) Work in progress, star now to get notified when it's ready!
 
@@ -21,7 +21,7 @@ Landing page (<https://onewhim.com/>) Work in progress, star now to get notified
 
 Any questions?
 
-Open an issue or start a discussion in this repo so that **all people can search for and view it publicly. We do support openly.**
+Open an issue or start a discussion in this repo so that **all people can search for and view it publicly.**
 
 And feel free to join and talk on
 
