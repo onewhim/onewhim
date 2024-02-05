@@ -12,15 +12,15 @@ export const metadata: Metadata = {
   description:
     "🎉 The hypermodern tech company building solutions for real-life issues.",
   icons: [
-    { rel: "icon", url: "https://cdn.cloudwhim.com/onewhim-logo-round.svg" },
+    { rel: "icon", url: "https://cdn.cloudwhim.com/onewhim-logo.svg" },
     {
       rel: "apple-touch-icon",
       url: "https://cdn.cloudwhim.com/onewhim-logo-mac.png",
     },
     {
       rel: "mask-icon",
-      url: "https://cdn.cloudwhim.com/onewhim-logo-round.svg",
-      color: "#000000",
+      url: "https://cdn.cloudwhim.com/onewhim-logo.svg",
+      color: "#FFF",
     },
   ],
 };
