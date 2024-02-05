@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.0.1",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --turbo --experimental-https",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
