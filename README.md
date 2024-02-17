@@ -10,9 +10,9 @@ We are rethinking challenges in life and creating products that are awesome by d
 
 - 🦋 beautiful modern UI
 - 📱 mobile friendly
-- 🔎 all code is supervised by public
-- 🔒 complete private and secure, no any tracking
-- 🌎 support in tons of countries, if not, you just tell us
+- 🔎 code is supervised by public
+- 🔒 complete private and secure
+- 🌎 support in tons of countries
 - 🥳 huge community support
 
 Landing page (<https://onewhim.com/>) Work in progress, star now to get notified when it's ready!
