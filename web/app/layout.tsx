@@ -10,13 +10,13 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Onewhim",
   description:
-    "🎉 The hypermodern tech company building solutions for real-life issues.",
+    "🔥 The hypermodern tech company focusing on real issues in life.",
   icons: [
-    { rel: "icon", url: "/favicon.ico"},
+    { rel: "icon", url: "/favicon.ico" },
     {
       rel: "apple-touch-icon",
       url: "/apple-touch-icon.png",
-    }
+    },
   ],
 };
 
