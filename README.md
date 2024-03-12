@@ -8,10 +8,10 @@ We build modern solutions with a global presence!
 
 We are rethinking challenges in life and creating products that are awesome by default:
 
-- 🦋 beautiful modern UI
+- 🦋 beautiful UI
 - 📱 mobile friendly
-- 🔎 code is supervised by public
-- 🔒 complete private and secure
+- 🔥 modern tech
+- 🔒 private and secure
 - 🌎 support in tons of countries
 - 🥳 huge community support
 
