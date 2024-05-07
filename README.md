@@ -4,16 +4,13 @@
 
 We are a hypermodern tech company focusing on real issues in life.
 
-We build modern solutions with a global presence!
-
 We are rethinking challenges in life and creating products that are awesome by default:
 
-- 🦋 beautiful UI
-- 📱 mobile friendly
-- 🔥 modern tech
-- 🔒 private and secure
-- 🌎 support in tons of countries
-- 🥳 huge community support
+- 🦋 Appealing UI
+- 📱 Mobile Friendly
+- 🔥 Top-Quality Tech Stack
+- 🌍 Invincible Transparency
+- 🥳 Support From Everywhere
 
 Landing page (<https://onewhim.com/>) Work in progress, star now to get notified when it's ready!
 
