@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Onewhim Logo" src="https://cdn.cloudwhim.com/onewhim-logo-name.svg" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
+  <img alt="Onewhim Logo" src="https://cdn.cloudwhim.com/onewhim-logo-name-480.webp" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
 </p>
 
 We are a hypermodern tech company focusing on real issues in life.
