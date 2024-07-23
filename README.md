@@ -2,9 +2,9 @@
   <img alt="Onewhim Logo" src="https://cdn.cloudwhim.com/onewhim-logo-name-1918.webp" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
 </p>
 
-We are a hypermodern tech company focusing on real issues in life.
+We build next-gen tech focusing on real issues in life.
 
-We are rethinking challenges in life and creating products that are awesome by default:
+We rethink challenges in life and create products that are awesome by default:
 
 - 🦋 Appealing UI
 - 📱 Mobile Friendly
@@ -12,7 +12,7 @@ We are rethinking challenges in life and creating products that are awesome by d
 - 🌍 Invincible Transparency
 - 🥳 Support From Everywhere
 
-Landing page (<https://onewhim.com/>) Work in progress, star now to get notified when it's ready!
+Website (<https://onewhim.com/>) Work in progress, star now to keep an eye on us!
 
 ---
 
@@ -32,4 +32,4 @@ Facebook Group(<https://www.facebook.com/groups/onewhim/>)
 
 Facebook Page(<https://www.facebook.com/onewhim/>)
 
-For private discussions, please talk with Lucas Quinn <lucas.quinn.tech@gmail.com>
+For private discussions, please talk with Lucas James Quinn <lucas.quinn.tech@gmail.com>
