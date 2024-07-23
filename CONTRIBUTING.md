@@ -1,3 +1,2 @@
-- Feel free to react in GitHub Issues, Pull requests and Discusstions.
-- Feel free to open Issues, Pull requests and Discusstions and talk on any social platforms.
-- Feel free to discuss anything with Lucas Quinn <lucas.quinn.tech@gmail.com>
+- Feel free to talk in GitHub issues, pull requests and discusstions and any other social platforms.
+- Feel free to discuss anything with Lucas James Quinn <lucas.quinn.tech@gmail.com>

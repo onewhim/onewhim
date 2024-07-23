@@ -12,4 +12,4 @@ Facebook Group(<https://www.facebook.com/groups/onewhim/>)
 
 Facebook Page(<https://www.facebook.com/onewhim/>)
 
-For private discussions, please talk with Lucas Quinn <lucas.quinn.tech@gmail.com>
+For private discussions, please talk with Lucas James Quinn <lucas.quinn.tech@gmail.com>

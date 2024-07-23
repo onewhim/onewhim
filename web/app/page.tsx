@@ -5,8 +5,7 @@ export default function Home() {
   return (
     <main>
       <div className="text-center">
-        This is Onewhim website. Work in progress. stay tuned when it&apos;s
-        ready!
+        This is Onewhim website. Work in progress. Check our GitHub page first.
         <div></div>
         <Button asChild>
           <Link href="https://github.com/onewhim/onewhim">GitHub</Link>

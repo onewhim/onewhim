@@ -1,12 +1,9 @@
 #### Onewhim
 
-This is the website of Onewhim, working in progress.
+This is the website of Onewhim. Work in progress, star now to keep an eye on us!
 
 Built with:
 
 - React
 - Next.js
-- Zustand
 - Tailwind CSS
-- Radix
-- shadcn/ui

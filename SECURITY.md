@@ -1,1 +1,1 @@
-Talk security issues privately with Lucas Quinn <lucas.quinn.tech@gmail.com>
+Talk security issues privately with Lucas James Quinn <lucas.quinn.tech@gmail.com>
