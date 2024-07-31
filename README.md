@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Onewhim Logo" src="https://cdn.cloudwhim.com/onewhim-logo-name-1918.webp" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
+  <img alt="Onewhim Logo" src="https://cdn.onewhim.com/onewhim-logo-name-1918.webp" style="max-width: 200 px; width: 40%; min-width: 150 px;"/>
 </p>
 
 We build next-gen tech focusing on real issues in life.
